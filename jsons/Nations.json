@@ -12,27 +12,28 @@
 		"declaringWar": "Vos terres seront bientôt celle de l'Union !",
 		"attacked": "Vous payerez pour cette agression.",
 		"defeated": "Pourquoi une telle cruauté ?",
-		"introduction": "Bienvenue sur les terres de l'Union! ",
+		"introduction": "Bienvenue sur les terres de l'Union ! ",
 		
 		"neutralHello": "Comment allez-vous ?",
 		"neutralLetsHearIt": ["Que voulez vous ?"],
 		"neutralNo": ["Non.","Je refuse."],
-		"neutralYes": ["Bien sur!","Pourquoi pas."],
+		"neutralYes": ["Bien sur !","Pourquoi pas."],
 
 		"hateHello": "Que viens tu faire ici !",
 		"hateLetsHearIt": ["Quoi ?!"],
-		"hateNo": ["Jamais!","Et puis quoi encore !"],
+		"hateNo": ["Jamais !","Et puis quoi encore !"],
 		"hateYes": ["Pour le bien de l'Union, j'accepte.","Pourquoi pas..."],
 		
 		"afterPeace": "Enfin un peu de calme.",
 		"tradeRequest": "L'Union vous propose un échange équitable.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [127,48,11],
+		"innerColor": [242,242,59],
+		"uniqueName": "La Grande Récolte.",
+		"uniques": "[+1 Food] from [Farm] tiles [in all cities]<before discovering [Chemistry]>",
+			"[+2 Food] from [Farm] tiles [in all cities]<after discovering [Chemistry]>",
+		"cities": ["Rasarins","Drisa","Ebl","Nocot","Alzoc","Vaten","Roge","Mirempom","Iln","Tetamo",
+			"Tharoci","Ajos","Negora","Raupioe","Zri","Seceri","Nonni","Palneta","Terotca","Ripoe",
+			"Enech","Etapat","Runida",],
 	}
 ]
