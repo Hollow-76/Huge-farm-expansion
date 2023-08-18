@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Compagnie agricole",
-		"uniqueTo": "L'Union Agricole",
+		"uniqueTo": "L'Union agricole",
 		"hurryCostModifier": 0,
 		"happiness": 2,
 		"food": 3,
