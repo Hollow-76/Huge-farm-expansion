@@ -1,1 +1,9 @@
 
+[
+	{
+		"name":"Fermier",
+		"food":5,
+		"greatPersonPoints": {"Grand Fermier":3},
+		"color": [0,255,0]
+	},
+]
