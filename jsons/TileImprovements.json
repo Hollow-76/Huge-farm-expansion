@@ -1,6 +1,6 @@
 [
 {
-		  "name": "Manufactory",
+		  "name": "Grande ferme",
 		  "terrainsCanBeBuiltOn": ["Land"],
 		  "food": 3,
 		  "uniques": ["Great Improvement", "[+2 Food] for each adjacent [Farm]", 
