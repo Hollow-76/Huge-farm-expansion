@@ -1,0 +1,9 @@
+[
+{
+		  "name": "Manufactory",
+		  "terrainsCanBeBuiltOn": ["Land"],
+		  "food": 3,
+		  "uniques": ["Great Improvement", "[+2 Food] for each adjacent [Farm]", 
+          "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+]
