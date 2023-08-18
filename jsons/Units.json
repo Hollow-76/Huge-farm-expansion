@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Grand fermier",
+		"uniqueto": "L'Union agricole",
 		"unitType": "Civilian",
 		"uniques": [
             		"Empire enters a [8]-turn Golden Age <by consuming this unit>",
